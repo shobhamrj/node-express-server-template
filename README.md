@@ -10,16 +10,6 @@
 - Create a custom validation for an API endpoint
 - Replace the hectic custom validation with `withvoid/make-validation` library
 
-### Learning
-
-Youtube links:
-
-- About ExpressJS https://www.youtube.com/watch?v=t7-yuYFVG1Y&list=PLH6pGK5zEj9mO-yS9FjQ6xhJXUagoEgOh
-- Adding API Validation https://www.youtube.com/watch?v=t-KGXLM0YlE&list=PLH6pGK5zEj9mO-yS9FjQ6xhJXUagoEgOh&index=3&t=2s
-
-## Tutorial
-
-Tutorial Article: https://www.freecodecamp.org/news/create-a-professional-node-express/
 
 ## Useful links
 
